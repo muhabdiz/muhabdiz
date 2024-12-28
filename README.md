@@ -4,17 +4,13 @@
 
 * 🌍  I'm based in Banjarmasin
 * ✉️  You can contact me at [abdiz8877@gmail.com](mailto:abdiz8877@gmail.com)
-* 🚀  I'm currently working on My heart
+* 🚀  I'm Linux Enthusiast
 * 🧠  I'm Always learning
 * ⚡  Talkless Do More
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="30" alt="atom logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
